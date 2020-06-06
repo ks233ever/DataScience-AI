@@ -1,2 +1,2 @@
 # DataScience-ML-Analytics
-Contains Machine Learning, Data Science and Analysis projects.
+Contains Data Science, Machine Learning and Analysis projects.
