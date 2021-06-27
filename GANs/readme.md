@@ -1,5 +1,5 @@
 # AI Art!
-# Step 1: Gather Source Images! 
+# Step 1: Gather Source Images
 -- put the dataset into dataset/ folder to run image_resizer on them, will save them to cubism_data.npy
 
 https://towardsdatascience.com/generating-modern-arts-using-generative-adversarial-network-gan-on-spell-39f67f83c7b4
