@@ -10,4 +10,3 @@ https://towardsdatascience.com/generating-modern-arts-using-generative-adversari
 --Discriminator in GAN uses a cross entropy loss (binary classifier--> real or fake), since discriminators job is to classify; cross entropy loss is the best one out there.
 
 
--- Up to training GAN
